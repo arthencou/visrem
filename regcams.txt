@@ -1,0 +1,10 @@
+
+{ [Telecentro Biblioteca Municipal] [http://10.12.1.151] [8080] [VIMICRO_VC05688M] [usedefaultpass] [autoload] [autorec] }
+
+{ [Telecentro Centro Cultural] [http://189.76.56.177] [8080] [VIMICRO_VC05688M] [usedefaultpass] [autoload] [autorec] }
+
+{ [Telecentro Sine] [http://187.0.84.42] [8080] [VIMICRO_VC05688M] [usedefaultpass] [autoload] [autorec] }
+
+{ [Telecentro Terminal] [http://187.0.67.85] [8080] [VIMICRO_VC05688M] [usedefaultpass] [autoload] [autorec] }
+
+{ [Telecentro Warta] [http://187.18.111.179] [8080] [VIMICRO_VC05688M] [usedefaultpass] [autoload] [autorec] }
